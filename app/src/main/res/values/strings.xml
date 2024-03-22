@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB1</string>
+    <string name="pagina_da_atividade_1">Pagina da Atividade 1</string>
+    <string name="atividade_2">Atividade 2</string>
+    <string name="pagina_da_atividade_2">Pagina da atividade 2</string>
+    <string name="rui_rocha_23468" translatable="false">Rui Rocha-23468</string>
+    <string name="fim">Fim</string>
+</resources>
